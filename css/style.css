@@ -94,9 +94,8 @@ blockquote {
   border: 1px solid #E5E5DB;
   background: #FFF;
 }
-
 ul { 
-  margin: 2px 0 22px 17px;
+  margin: 0;
 }
 
 ul li { 
