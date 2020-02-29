@@ -101,7 +101,7 @@ ul {
 ul li { 
   list-style-type: none;
   margin: 0; 
-  padding: 0 0 4px 5px;
+  padding: 0;
 }
 
 ol { 
