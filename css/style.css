@@ -419,10 +419,8 @@ table tr td {
 }
 
 ul.images {
-  width:450px;
-  height:450px;
+  object-fit: contain;
   overflow:hidden;
-  position:relative;
   margin:0;
   padding:0;
 } 
@@ -436,9 +434,9 @@ ul.images li {
   list-style:none;
 }
  
-ul.images li.show {
-  z-index:500;  
-}
+#ul.images li.show {
+#  z-index:500;  
+#}
  
 ul img {
   border:none;  
