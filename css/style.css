@@ -81,7 +81,7 @@ h5, h6 {
 a, a:hover { 
   outline: none;
   text-decoration: underline;
-  color: #09BCE8;
+  color: #ff9a28;
 }
 
 a:hover { 
@@ -91,7 +91,7 @@ a:hover {
 blockquote { 
   margin: 20px 0; 
   padding: 10px 20px 0 20px;
-  border: 1px solid #E5E5DB;
+  border: 1px solid #fff0d7;
   background: #FFF;
 }
 ul { 
@@ -406,14 +406,14 @@ table {
 }
 
 table tr th, table tr td { 
-  background: #70D4E6;
+  background: #ff9d2e;
   color: #FFF;
   padding: 7px 4px;
   text-align: left;
 }
   
 table tr td { 
-  background: #D3F2F7;
+  background: #f6b26b;
   color: #47433F;
   border-top: 1px solid #FFF;
 }
@@ -561,7 +561,7 @@ ul#nav li a {
 }
 
 ul#nav li a:hover, ul#nav li a:focus, ul#nav li.selected a, ul#nav li.selected a:hover, ul#nav li.selected a:focus { 
-  color: #09BCE8;
+  color: #ff9d2e;
   text-shadow: none;
 }
 
@@ -570,7 +570,7 @@ ul#nav ul li a {
 }
 
 ul#nav ul li a:hover { 
-  color: #09BCE8;
+  color: #ff9d2e;
   margin-right: 2px;
 }
 
